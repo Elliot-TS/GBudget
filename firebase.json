@@ -1,14 +1,13 @@
 {
-  "emulators": {
-    "firestore": {
-      "port": 3240
-    },
-    "ui": {
-      "enabled": true
-    },
-    "auth": {
-      "port": 9099
-    },
-    "singleProjectMode": true
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-east1"
+    }
   }
 }
