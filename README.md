@@ -8,6 +8,17 @@ Students will create an account using their RSO or SECP email address.  The SGA 
 
 Students can create a budget request for their RSO or SECP events.  On the event page, they add details about the event and add items to the budget.  Once submitted, the SGA treasurer can review the budget and either approve or deny the budget.  If there are items that need to be changed, the treasurer can mark which items need to be changed and the student can resubmit the budget.
 
+## Screenshots
+
+Student Organization Dashboard
+![Screenshot of Student Organization Dashboard](Screenshots/03.06.2025-11.28.06.png)
+
+Add event
+![Screenshot of Add event](Screenshots/03.06.2025-11.24.55.png)
+
+Edit an event
+![Screenshot of Edit event](Screenshots/03.06.2025-11.27.27.png)
+
 
 ## Repo Layout
 
