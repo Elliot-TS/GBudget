@@ -11,13 +11,16 @@ Students can create a budget request for their RSO or SECP events.  On the event
 ## Screenshots
 
 Student Organization Dashboard
-![Screenshot of Student Organization Dashboard](Screenshots/03.06.2025-11.28.06.png)
+![Screenshot of Student Organization Dashboard](Screenshots/03.06.2025-11.34.07.png)
 
 Add event
-![Screenshot of Add event](Screenshots/03.06.2025-11.24.55.png)
+![Screenshot of Add event](Screenshots/03.06.2025-11.34.41.png)
 
 Edit an event
-![Screenshot of Edit event](Screenshots/03.06.2025-11.27.27.png)
+![Screenshot of Edit event](Screenshots/03.06.2025-11.35.14.png)
+
+Add item
+![Screenshot of Add Item](Screenshots/03.06.2025-11.35.36.png)
 
 
 ## Repo Layout
