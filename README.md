@@ -16,11 +16,11 @@ Student Organization Dashboard
 Add event
 ![Screenshot of Add event](Screenshots/03.06.2025-11.34.41.png)
 
-Edit an event
-![Screenshot of Edit event](Screenshots/03.06.2025-11.35.14.png)
-
 Add item
-![Screenshot of Add Item](Screenshots/03.06.2025-11.35.36.png)
+![Screenshot of add item](Screenshots/03.06.2025-11.35.14.png)
+
+Edit an event
+![Screenshot of edit event](Screenshots/03.06.2025-11.35.36.png)
 
 
 ## Repo Layout
